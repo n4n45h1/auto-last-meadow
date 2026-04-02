@@ -36,7 +36,7 @@
   function makeAdventureBot() {
     var state = {
       timerId: null,
-      intervalMs: 60,
+      intervalMs: 1,
       clicks: 0,
       active: false,
     };
