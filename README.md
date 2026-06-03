@@ -1,3 +1,20 @@
+# not working😢
+↓
+↓
+↓
+↓
+
+
+
+
+
+
+
+
+
+
+
+
 # Auto last meadow 
 
 Simple Discord last meadow autoclicker. Automatically starts clicking when loaded.
